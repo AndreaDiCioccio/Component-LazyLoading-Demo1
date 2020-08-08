@@ -12,4 +12,5 @@ import { CustomersComponent } from './customers.component';
     CustomersRoutingModule
   ]
 })
+
 export class CustomersModule { }

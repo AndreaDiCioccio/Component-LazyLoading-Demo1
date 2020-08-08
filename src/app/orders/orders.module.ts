@@ -12,4 +12,5 @@ import { OrdersComponent } from './orders.component';
     OrdersRoutingModule
   ]
 })
+
 export class OrdersModule { }
